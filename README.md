@@ -14,7 +14,7 @@
 ### Мои проекты:
 
 - <img class="emoji" alt="cloud_with_lightning_and_rain" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/26c8.png"> [Weather Application](https://github.com/Easyjetz/weatherApp)
-- - <img class="emoji" alt="moneybag" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png"> [Online Store](https://github.com/Easyjetz/dmitry-shop-client)
+- <img class="emoji" alt="moneybag" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b0.png"> [Online Store](https://github.com/Easyjetz/dmitry-shop-client)
 
 <br />
 <br />
