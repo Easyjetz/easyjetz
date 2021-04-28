@@ -4,8 +4,8 @@
 
 ### Кратко обо мне:
 
-- <img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"> В данный момент занимаюсь пет-проектом
-- <img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"> Сейчас я изучаю: TypeScript и React Routing
+- <img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"> Общительный и целеустремленный, хочу вырасти в хорошего специалиста
+- <img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"> В данный момент нахожусь в поиске работы
 - <img class="emoji" alt="trophy" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png"> Увлекаюсь спортом и стремлюсь к развитию и самосовершенствованию
   <br />
   <br />
